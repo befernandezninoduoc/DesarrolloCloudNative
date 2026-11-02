@@ -1,0 +1,12 @@
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/TicketMasterApplication.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/controller/CompraController.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/controller/EventoController.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/model/Compra.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/model/CompraRespuesta.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/model/CompraSolicitud.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/model/Evento.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/model/NuevoEventoSolicitud.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/repository/CompraRepository.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/repository/EventoRepository.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/service/CompraService.java
+/Volumes/SanDisk/Proyectos DuocUC/Cloud Native/TicketMaster/src/main/java/com/duoc/TicketMaster/service/EventoService.java
